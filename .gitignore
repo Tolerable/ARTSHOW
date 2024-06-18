@@ -1,0 +1,17 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore backup Python files
+ARTSHOW-*.py
+
+# Ignore database files
+*.db
+
+# Ignore other files and folders except ASSETS and ARTSHOW.py
+*
+!ARTSHOW.py
+!ASSETS/
+!README.md
+!LICENSE
+!.gitignore
