@@ -51,8 +51,7 @@ model_name_mapping = {
 # Define style keywords and their corresponding tags
 style_tags = {
     "Anime": ("(anime), (illustration), cartoon, detailed, {prompt}", "deformed, noisy, blurry, realistic, stock photo"),
-    "Hentai": ("(ahegao), (anime, hentai painting), naked nao tomori, ({prompt}:1.15), intricate, glossy, realism, art by rossdraws, soft light, (muted colors), warm, dramatic, (cum dripping)", "photo, deformed, black and white, realism, disfigured, low contrast"),
-    "Illustration": ("illustration, cartoon, soothing tones, calm colors, {prompt}", "photo, deformed, glitch, noisy, realistic, stock photo"),
+    "Op art": ("(op art),  {prompt}, optical illusions, geometric, black and white, detailed", "no illusions, organic, colorful, low detail"),
     "Caricature": ("big head, big eyes, caricature, a caricature, digital rendering, (figurativism:0.8)", "realistic, deformed, ugly, noisy"),
     "Paper-cut": ("(paper-cut craft:1.2), {prompt}, amazing body, detailed", "noisy, messy, blurry, realistic"),
     "3d Render 👍": ("epic realistic, hyperdetailed, (cycles render:1.3), caustics, (glossy:0.58), (artstation:0.82)", "ugly, deformed, noisy, low poly, blurry, painting"),
